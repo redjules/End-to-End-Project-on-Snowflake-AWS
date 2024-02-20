@@ -81,8 +81,3 @@ we create a temp table:
 
 
 
-<img width="469" alt="Screenshot 2024-02-20 at 01 07 45" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/04bfdf59-3409-418e-ad2b-5d25de6ca906">
-
-
-<img width="![Uploading Screenshot 2024-02-20 at 01.04.58.png…]()
-388" alt="Screenshot 2024-02-20 at 01 01 14" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/af3ecf55-1e29-496c-8d35-c3eea55a82ed">
