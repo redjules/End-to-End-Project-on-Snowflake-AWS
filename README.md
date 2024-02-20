@@ -37,6 +37,7 @@ we create an integration:
 
 <img width="487" alt="Screenshot 2024-02-20 at 00 50 00" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/103e727f-a08c-412b-b50b-17907f94496a">
 
+
 <img width="535" alt="Screenshot 2024-02-20 at 00 50 28" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/05150638-a309-4b65-a95e-8a1326494b10">
 
 we edit the policy with snowflake_external_id
@@ -52,12 +53,14 @@ we edit the policy with snowflake_external_id
 
 <img width="312" alt="Screenshot 2024-02-20 at 00 59 13" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/de29bf82-ccc0-418d-8a21-935321f17c8d">
 
+
 <img width="521" alt="Screenshot 2024-02-20 at 00 59 35" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/7c1aff02-a12e-44b0-ad53-0efbfbfd5b96">
 
 
 <img width="327" alt="Screenshot 2024-02-20 at 00 58 20" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/674ca183-6b35-4c09-a6d7-5c4625f4c45f">
 
 we create a temp table:
+
 
 <img width="380" alt="Screenshot 2024-02-20 at 01 00 33" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/1e058151-2db2-4942-9f47-f9d0efcd9595">
 
@@ -75,6 +78,7 @@ we create a temp table:
 
 
 <img width="299" alt="Screenshot 2024-02-20 at 01 06 34" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/dafc20cd-0e2d-498a-9b42-25f4675d9d80">
+
 
 
 <img width="469" alt="Screenshot 2024-02-20 at 01 07 45" src="https://github.com/redjules/End-to-End-Project-on-Snowflake-AWS/assets/106017493/04bfdf59-3409-418e-ad2b-5d25de6ca906">
